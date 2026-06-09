@@ -1,5 +1,7 @@
+<!-- .slide: <%= bg("unsplash-E0e1NmVclRo-mist_lake.jpg") %> id="title" -->
 # Topics in Sexual Health
 ## BC Grade 8
+[Anna Goncharova](https://unsplash.com/photos/E0e1NmVclRo "caption")
 
 ---
 <!-- .slide: id="refs" -->
@@ -17,7 +19,7 @@
 
 ### Physical Health
 + Reproductive **Anatomy** [(TSH7)](#refs "ref")
-+ STD / BB **Diseases** [(TSH8)](#refs "ref")
++ STD / BB **Infections** [(TSH8)](#refs "ref")
 + **Contraceptives** [(TSH8)](#refs "ref")
 
 </div><div style="flex:1">
@@ -26,7 +28,6 @@
 + **Consent** [(REB, SSH)](#refs "ref")
 + Signs of **Abuse** [(TSH8)](#refs "ref")
 + **Internet** Safety [(SSH)](#refs "ref")
-+ **Addiction** and Porn [(SSH)](#refs "ref")
 
 </div></div>
 
@@ -49,21 +50,23 @@
 + **Bacteria**: gonorrhea, chlamydia, syphilis
 + **Parasites**: public lice, trich, scabies
 
+[(SSH p.24-28)](https://curriculum.gov.bc.ca/sites/curriculum.gov.bc.ca/files/pdf/subject/phe/Supporting_Student_Health_Secondary.pdf)
+
 ---
 ## Contraceptives [(TSH8 p.23-41)](https://teachingsexualhealth.ca/app/uploads/sites/4/Grade_8_LA_PowerPoint.pdf "ref")
 
 + Mechanical:
-  + Condoms: penile (external), vaginal (internal)
-  + Cervical diaphragm
+  + **Condoms**: penile (external), vaginal (internal)
+  + Cervical **diaphragm**
 + Hormonal:
-  + Progestin / progesterone, estrogen
+  + **Progestin** / progesterone, estrogen
   + Implant, injection, patch, pill, IUD, or vaginal ring
 + Spermicidal:
-  + Copper IUD
-+ Emergency (day-after) contraception:
+  + Copper **IUD**
++ **Emergency** (day-after) contraception:
   + levonorgestrel pill
   + Copper IUD
-+ Permanent procedures:
++ **Permanent** procedures:
   + Tubal ligation
   + Vasectomy
 + Rhythm / timing, pulling out, etc
@@ -87,12 +90,18 @@
 ---
 ## Signs of Abuse [(TSH8 p.42-55)](https://teachingsexualhealth.ca/app/uploads/sites/4/Grade_8_LA_PowerPoint.pdf "ref")
 
-+ Types of abuse:
++ **Types** of abuse:
   + Physical, emotional, financial, sexual
   + Neglect
-+ Signs of abuse, cycles of abuse
-+ When to disclose
-+ How to support your friend
++ **Signs** of abuse, **cycles** of abuse
++ When to **disclose**
++ How to **support** your friend
 
 ---
 ## Internet Safety [(SSH p.16-20)](https://curriculum.gov.bc.ca/sites/curriculum.gov.bc.ca/files/pdf/subject/phe/Supporting_Student_Health_Secondary.pdf "ref")
+
++ Catfishing
++ Cyberbullying
++ Digital footprint
++ Sexting and nudes
++ Pornography (SSH p.25)
