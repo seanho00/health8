@@ -1,16 +1,19 @@
 <!-- .slide: <%= bg("unsplash-E0e1NmVclRo-mist_lake.jpg") %> id="title" -->
-# Topics in Sexual Health
+# Topics in <br/> Sexual Health
 ## BC Grade 8
 [Anna Goncharova](https://unsplash.com/photos/E0e1NmVclRo "caption")
 
 ---
 <!-- .slide: id="refs" -->
 ## Curriculum Resources
-+ [BC PHE8 Core, Curriculum, and Content](https://curriculum.gov.bc.ca/curriculum/physical-health-education/8/core)
-+ (SSH) [BC Supporting Student Health (Secondary)](https://curriculum.gov.bc.ca/sites/curriculum.gov.bc.ca/files/pdf/subject/phe/Supporting_Student_Health_Secondary.pdf)
-  (pdf)
-+ (TSH) [Primary Care AB: Teaching Sexual Health (gr 8)](https://teachingsexualhealth.ca/teachers/grade/grade-8/)
-+ (REB) [Health Canada Research Ethics Board: Consent Process](https://www.canada.ca/en/health-canada/services/science-research/science-advice-decision-making/research-ethics-board/consent-process.html)
++ [BC PHE8](https://curriculum.gov.bc.ca/curriculum/physical-health-education/8/core): Core, Curriculum, and Content
++ [(SSH)](https://curriculum.gov.bc.ca/sites/curriculum.gov.bc.ca/files/pdf/subject/phe/Supporting_Student_Health_Secondary.pdf):
+  BC Supporting Student Health (Secondary) (pdf)
++ [(TSH)](https://teachingsexualhealth.ca/teachers/grade/grade-8/): Teaching Sexual Health 
+  + (Primary Care AB) (gr 8)
++ [(REB)](https://www.canada.ca/en/health-canada/services/science-research/science-advice-decision-making/research-ethics-board/consent-process.html):
+  Research Ethics Board:
+  + Consent Process (Health Canada)
 
 ---
 ## Topics
@@ -18,16 +21,16 @@
 <div class="imgbox"><div>
 
 ### Physical Health
-+ Reproductive **Anatomy** [(TSH7)](#refs "ref")
-+ STD / BB **Infections** [(TSH8)](#refs "ref")
-+ **Contraceptives** [(TSH8)](#refs "ref")
++ Reproductive **Anatomy**
++ STD / BB **Infections**
++ **Contraceptives**
 
 </div><div style="flex:1">
 
 ### Mental Health
-+ **Consent** [(REB, SSH)](#refs "ref")
-+ Signs of **Abuse** [(TSH8)](#refs "ref")
-+ **Internet** Safety [(SSH)](#refs "ref")
++ **Consent**
++ Signs of **Abuse**
++ **Internet** Safety
 
 </div></div>
 
@@ -56,33 +59,23 @@
 ## Contraceptives [(TSH8 p.23-41)](https://teachingsexualhealth.ca/app/uploads/sites/4/Grade_8_LA_PowerPoint.pdf "ref")
 
 + Mechanical:
-  + **Condoms**: penile (external), vaginal (internal)
+  + **Condoms**: penile, vaginal
   + Cervical **diaphragm**
-+ Hormonal:
-  + **Progestin** / progesterone, estrogen
-  + Implant, injection, patch, pill, IUD, or vaginal ring
-+ Spermicidal:
-  + Copper **IUD**
-+ **Emergency** (day-after) contraception:
-  + levonorgestrel pill
-  + Copper IUD
-+ **Permanent** procedures:
-  + Tubal ligation
-  + Vasectomy
++ **Hormonal** (progestin, estrogen):
+  + Implant, inject, patch, pill, IUD, ring
++ Spermicidal: copper **IUD**
++ **Emergency** (day-after): pill, IUD
++ **Permanent**: ligation, vasectomy
 + Rhythm / timing, pulling out, etc
 
 ---
 ## Principles of Consent [(REB)](https://www.canada.ca/en/health-canada/services/science-research/science-advice-decision-making/research-ethics-board/consent-process.html "ref")
 
-+ **Voluntary**:
-  + Coercion, power dynamics, age of consent
-  + Default to "no" ("yes means yes")
-+ **Informed**: 
-  + Verbal, specific
++ **Voluntary**: coercion, power dynamics
+  + Age of consent; default to "no"
++ **Informed**: verbal, specific
   + Capacity to consent
-+ **Ongoing**:
-  + Can withdraw consent at any time
-  + Changes require new consent
++ **Ongoing**: changes require new consent
 
 **FRIES**: free, reversible, informed, enthusiastic, specific
 [(SSH p.9-15)](https://curriculum.gov.bc.ca/sites/curriculum.gov.bc.ca/files/pdf/subject/phe/Supporting_Student_Health_Secondary.pdf)
