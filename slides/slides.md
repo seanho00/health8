@@ -8,11 +8,12 @@
 ## Curriculum Resources
 + [BC PHE8](https://curriculum.gov.bc.ca/curriculum/physical-health-education/8/core): Core, Curriculum, and Content
 + [(SSH)](https://curriculum.gov.bc.ca/sites/curriculum.gov.bc.ca/files/pdf/subject/phe/Supporting_Student_Health_Secondary.pdf):
-  BC Supporting Student Health (Secondary) (pdf)
+  BC Supporting Student Health 
+  + topics grade K-10
 + [(TSH)](https://teachingsexualhealth.ca/teachers/grade/grade-8/): Teaching Sexual Health 
-  + (Primary Care AB) (gr 8)
+  + Primary Care AB, grades 4-12
 + [(REB)](https://www.canada.ca/en/health-canada/services/science-research/science-advice-decision-making/research-ethics-board/consent-process.html):
-  Research Ethics Board:
+  Research Ethics Board
   + Consent Process (Health Canada)
 
 ---
@@ -58,12 +59,12 @@
 ---
 ## Contraceptives [(TSH8 p.23-41)](https://teachingsexualhealth.ca/app/uploads/sites/4/Grade_8_LA_PowerPoint.pdf "ref")
 
-+ Mechanical:
-  + **Condoms**: penile, vaginal
++ **Mechanical**:
+  + Condoms: penile, vaginal
   + Cervical **diaphragm**
 + **Hormonal** (progestin, estrogen):
   + Implant, inject, patch, pill, IUD, ring
-+ Spermicidal: copper **IUD**
++ **Spermicidal**: copper IUD
 + **Emergency** (day-after): pill, IUD
 + **Permanent**: ligation, vasectomy
 + Rhythm / timing, pulling out, etc
@@ -77,7 +78,7 @@
   + Capacity to consent
 + **Ongoing**: changes require new consent
 
-**FRIES**: free, reversible, informed, enthusiastic, specific
+**FRIES**: freely given, reversible, informed, enthusiastic, specific
 [(SSH p.9-15)](https://curriculum.gov.bc.ca/sites/curriculum.gov.bc.ca/files/pdf/subject/phe/Supporting_Student_Health_Secondary.pdf)
 
 ---
@@ -93,8 +94,8 @@
 ---
 ## Internet Safety [(SSH p.16-20)](https://curriculum.gov.bc.ca/sites/curriculum.gov.bc.ca/files/pdf/subject/phe/Supporting_Student_Health_Secondary.pdf "ref")
 
-+ Catfishing
-+ Cyberbullying
-+ Digital footprint
-+ Sexting and nudes
-+ Pornography (SSH p.25)
++ **Catfishing**
++ **Cyberbullying**
++ Digital **footprint**
++ **Sexting** and nudes
++ **Pornography** (SSH p.25)
